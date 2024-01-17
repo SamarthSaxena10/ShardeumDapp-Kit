@@ -1,6 +1,6 @@
 {
   "name": "shardeum-dapp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Create a new Shardeum Dapp using the boilerplate",
   "bin": {
     "npx-create-shardeum-dapp": "./index.js"
