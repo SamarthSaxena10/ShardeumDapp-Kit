@@ -1,0 +1,16 @@
+{
+  "name": "shardeum-dapp",
+  "version": "1.0.3",
+  "description": "Create a new Shardeum Dapp using the boilerplate",
+  "bin": {
+    "npx-create-shardeum-dapp": "./index.js"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "degit": "^2.8.4"
+  }
+}
