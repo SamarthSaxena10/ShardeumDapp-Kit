@@ -2,7 +2,7 @@
 
 ![Homepage](/homepage.png)
 
-Welcome to the Shardeum Dapp Boilerplate repository! This is a comprehensive starting point for rapid prototyping your ideas on Shardeum.
+Welcome to the Shardeum Dapp Boilerplate ! This is a comprehensive starting point for rapid prototyping your ideas on Shardeum.
 
 This boilerplate is great for:
 
@@ -14,16 +14,10 @@ This boilerplate is great for:
 
 ## 🚀 Getting Started
 
-To begin your Shardeum dApp journey, clone this repository and install the necessary dependencies.
+You can easily create your Shardeum decentralized applications by using the following command:
 
-```
-git clone https://github.com/Shardeum/shardeum-dapp-boilerplate
-
-cd shardeum-dapp-boilerplate
-
-npm install
-
-npm run dev
+```bash
+npx create-shardeum-dapp my-dapp
 ```
 
 ## 📖 Usecases
@@ -43,7 +37,3 @@ There are three primary modules in the boilerplate:
 - **Pages**: Individual pages for demonstrating functionality for 3 major verticals in web3 - RPC, NFT and Defi.
 
 - **Smart Contracts**: All primary smart contracts used in the application can be found in the '**contracts**' directory and the appropriate scripts in the '**scripts**' directory.
-
-## ✨ Contributing Guidelines
-
-We warmly welcome contributions to the Shardeum Dapp Boilerplate! Whether you're fixing bugs, adding new features, or improving documentation, your help makes a big difference.
